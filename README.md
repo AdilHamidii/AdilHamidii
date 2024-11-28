@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-## 👨‍🎓 I'm a student and im learning to develop!
-- ❓ I'm currently learning c++ and swift
-- ❔ I know a little bit of python 
-- 🍣 My favourite food is sushi
-- 🥅 My goal for this year is to finish a project and to learn fully c++ and swift if possible (2021)
+## 👨‍🎓 I'm a student and im still learning a bunch of new things
+- ❓ Currently in my 4th semester so far
+- ❔ Learning low level c programming 
 
 ### 📎 You can connnect with me here: Adil.hamidii123@gmail.com
 
