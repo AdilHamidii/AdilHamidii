@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## 👨‍🎓 I'm a student and im still learning a bunch of new things
-- ❓ Currently in my 4th semester so far
-- ❔ Learning low level c programming 
+- ❓ Currently studying
+- ❔ Learning low level c++ / x86 asm programming 
 
 ### 📎 You can connnect with me here: Adil.hamidii123@gmail.com
 
