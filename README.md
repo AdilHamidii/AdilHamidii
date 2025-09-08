@@ -1,12 +1,48 @@
-### Hi there 👋
+# Hi, I'm Adil 👋
 
-## 👨‍🎓 I'm a student and im still learning a bunch of new things
-- ❓ Currently studying
-- ❔ Learning low level c++ / x86 asm programming 
+🎓 Currently doing a **License in Computer Science (CS)** in France  
+🛰️ Passionate about **space, avionics, and defense technologies**  
+🚀 Aiming for a **Master’s in Data & AI**, while **learning Embedded Systems** on the side  
+💡 Building projects that connect **low-level computing, hardware, and AI**  
+🌍 Fluent in **French** and **English**
 
-### 📎 You can connnect with me here: Adil.hamidii123@gmail.com
+---
 
-<img src="https://komarev.com/ghpvc/?username=AdilHamidii&label=Profile%20views&color=0e75b6&style=flat" alt="Adil" /> </p>
+## 🔧 Tech Stack
+- **Languages**: C, C++, Java, Python, Swift, TypeScript, SQL, Ada (learning)  
+- **Embedded Systems**: Arduino, STM32, real-time programming, bitwise optimization  
+- **Databases**: PostgreSQL, MySQL  
+- **Tools & Platforms**: Linux, Git, Docker, Manim, Xcode, VS Code  
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdilHamidii&show_icons=true" alt="Adyl" /></p>
+## 📂 Featured Projects
+- 🎯 **Guided Missile Prototype (Research)**: Exploring EO tracking, active fin control, and embedded guidance  
+- 📡 **Radar & IR Tracking**: Experiments in signal processing and electro-optical systems  
+- 💾 **Database Engine**: Low-level DB project for OS principles course  
+- 📱 **Swift iOS App**: Subscription-based PDF generator with modern UI & API integration  
+- 🚀 **3D Printed Rocket Model**: CAD and STL design for fuselage, fins, and nose cone  
+
+---
+
+## 🎯 Goals
+- Finish my **CS License**, continue to a **Master’s in Data & AI**  
+- Keep learning **Embedded Systems** alongside university  
+- Contribute to **aerospace and defense engineering**  
+- Work on **space-related projects** 🌌  
+
+---
+
+## 📈 GitHub Stats
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilhamidi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilhamidi&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+- [LinkedIn](#)  
+- [Portfolio](#)  
+- [Email](mailto:your@email.com)
+
+---
+✨ *"The best way to predict the future is to engineer it."*  
