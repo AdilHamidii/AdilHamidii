@@ -34,15 +34,15 @@
 ---
 
 ## 📈 GitHub Stats
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilhamidi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilhamidi&layout=compact&theme=tokyonight)
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilhamidii&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilhamidii&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/hamidiadil/)  
 - [Portfolio](#)  
-- [Email](mailto:your@email.com)
+- [Email](mailto:adil.hamidii123@gmail.com)
 
 ---
 ✨ *"The best way to predict the future is to engineer it."*  
